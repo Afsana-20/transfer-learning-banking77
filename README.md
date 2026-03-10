@@ -13,6 +13,8 @@ PropertyDetailsBase Modeldistilbert-base-uncasedDatasetBanking77 (10,003 trainin
 📊 Sample Output
 Customer QueryPredicted CategoryConfidence"I can't login to my account"login_issue98.5%"My card was charged twice"card_payment_wrong_exchange_rate97.2%"How do I transfer money abroad?"transfer_abroad99.1%"I lost my card"lost_or_stolen_card99.8%"What is the exchange rate today?"exchange_rate98.9%
 
+![App Output](output.png)
+
 🏗️ Project Structure
 transfer-learning-banking77/
 │
